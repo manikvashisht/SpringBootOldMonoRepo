@@ -1,0 +1,12 @@
+return:
+  constant: Welcome
+
+
+api:
+  title: Sample Spring Boot Service
+  description: This a sample starter service, which have 12 factor API implemented.
+  version: 1.0
+  contact: Manik Vashisht
+  termsOfServiceUrl: None Yet
+  license: Proprietary
+  licenseUrl: None Yet
